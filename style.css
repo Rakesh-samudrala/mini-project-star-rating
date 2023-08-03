@@ -1,0 +1,41 @@
+
+#box{
+    display: flex;
+   /* width: 2rem; */
+    gap: 2rem;
+    justify-content: center;
+    font-size: 4rem;
+}
+.star{
+    
+    color: grey;
+    
+}
+.heading{
+    display: grid;
+    place-items: center;
+}
+.yellow{
+    color: yellow;
+}
+.reset_btn{
+    /* display: flex; */
+    /* place-items: center; */
+    /* justify-content: center; */
+    /* font-size: 1rem; */
+    font-weight: bold;
+    /* color:; */
+    /* width */
+    /* height: 20vh; */
+    
+}
+.button{
+    display: flex;
+    /* place-items: center; */
+    /* justify-content: space-around; */
+    gap: 1rem;
+    
+}
+.submit_btn{
+    font-weight: bold;
+}
